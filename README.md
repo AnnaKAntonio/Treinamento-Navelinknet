@@ -31,4 +31,4 @@ O botão "Responder Formulário" redireciona para um Google Formulário, onde o 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEUNOME/SEU-REPOSITORIO.git
+   https://annakantonio.github.io/Treinamento-Navelinknet/
