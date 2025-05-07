@@ -6,7 +6,7 @@ Este é um site simples criado para convocar os colaboradores para um treinament
 
 - **Data:** 09/05/2025
 - **Horário:** 15h
-- **Local:** (Preencher se necessário)
+
 
 ## 🎯 Objetivo
 
